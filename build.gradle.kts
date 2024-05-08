@@ -3,7 +3,7 @@ plugins {
     id("org.jetbrains.kotlin.kapt") version "1.9.23"
     id("com.github.johnrengelman.shadow") version "8.1.1"
     id("io.micronaut.application") version "4.3.8"
-    id("org.jetbrains.kotlin.plugin.allopen") version "1.9.23"
+    id("org.jetbrains.kotlin.plugin.allopen") version "1.9.24"
     id("org.sonarqube") version "5.0.0.4638"
     jacoco
 }
